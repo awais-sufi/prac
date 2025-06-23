@@ -14,7 +14,8 @@ export default function HomePage() {
   const dispatch = useDispatch();
 
   return (
-    <div className="text-2xl text-blue-500">
+    <div className="text-2xl text-center text-blue-500">
+      <h1>Leran Also Pull-Request</h1>
       welcome to Learn Redux toolkit
       <div style={{ padding: "1rem" }}>
         <button
