@@ -15,7 +15,7 @@ export default function HomePage() {
 
   return (
     <div className="text-2xl text-blue-500">
-      welcome to Learn Redux toolkit and Pull-Request
+      welcome to Learn Redux toolkit
       <div style={{ padding: "1rem" }}>
         <button
           onClick={() => dispatch(increment())}
